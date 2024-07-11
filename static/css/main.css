@@ -1,0 +1,38 @@
+
+.hello-msg{
+    font-size: 15px;
+    color: #fff;
+    margin-right: 20px;
+  }
+
+.container{
+    margin-top: 5px;
+    padding-top: 5px;
+}
+
+.card-header{
+    font-weight: bold;
+}
+
+.image-thumbail{
+    height: 200px;
+    object-fit: cover;
+}
+
+.list-group-item a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+.login--wrapper {
+    display: flex;
+    align-items: center;
+    height: 80vh;
+    justify-content: center;
+}
+
+.form {
+    width: 500px;
+}
+
